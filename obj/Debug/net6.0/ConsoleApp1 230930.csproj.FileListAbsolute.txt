@@ -1,0 +1,14 @@
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\bin\Debug\net6.0\ConsoleApp1 230930.exe
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\bin\Debug\net6.0\ConsoleApp1 230930.deps.json
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\bin\Debug\net6.0\ConsoleApp1 230930.runtimeconfig.json
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\bin\Debug\net6.0\ConsoleApp1 230930.dll
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\bin\Debug\net6.0\ConsoleApp1 230930.pdb
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ConsoleApp1 230930.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ConsoleApp1 230930.AssemblyInfoInputs.cache
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ConsoleApp1 230930.AssemblyInfo.cs
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ConsoleApp1 230930.csproj.CoreCompileInputs.cache
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ConsoleApp1 230930.dll
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\refint\ConsoleApp1 230930.dll
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ConsoleApp1 230930.pdb
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ConsoleApp1 230930.genruntimeconfig.cache
+C:\Users\nikla\Source\Repos\GissisBoras\week3_asset\obj\Debug\net6.0\ref\ConsoleApp1 230930.dll

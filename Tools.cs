@@ -16,15 +16,5 @@ namespace ConsoleApp1_230930
 
         public string PriceOfAsset { get; set; }
 
-
-        //public Tools(bool computerExists, bool phoneExists, string name, string office, string dateOfPurchase)
-        //{
-
-        //    Name = name;
-        //    ComputerExists = computerExists;
-        //    PhoneExists = phoneExists;
-        //    Office = office;
-        //    DateOfPurchase = dateOfPurchase;
-        //}
     }
 }
